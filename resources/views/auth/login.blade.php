@@ -9,7 +9,7 @@
     <!-- Background image -->
   
     <div class="w-100 d-flex justify-content-center">
-      <div class="card rounded-3 border mx-4 col-6 mx-md-5 shadow-5-strong" style="
+      <div class="card rounded-3 border mx-4 col-10 col-md-6 mx-md-5 shadow-5-strong" style="
             margin-top: -250px;
             background: hsla(0, 0%, 100%, 0.8);
             backdrop-filter: blur(30px);
